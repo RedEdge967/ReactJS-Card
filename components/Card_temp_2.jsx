@@ -34,12 +34,10 @@ export default function Card_temp_1({ toggle, settoggle }) {
 
       <div className=" pt-16 pr-2 pl-2 flex flex-row justify-around flex-wrap">
           <div className="flex flex-row items-center m-2">
-            <FaReact size={20} color="#61DBFB" />
-            <h1 className="pl-1 dark:text-white">ReactJS</h1>
+            <h1 className="pl-1 dark:text-white"></h1>
           </div>
           <div className="flex flex-row items-center m-2">
-            <SiTypescript size={20} color="#007acc" />
-            <h1 className="pl-1 dark:text-white">TypeScript</h1>
+            <h1 className="pl-1 dark:text-white"></h1>
           </div>
         </div>
 
