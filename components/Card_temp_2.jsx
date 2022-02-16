@@ -32,11 +32,22 @@ export default function Card_temp_1({ toggle, settoggle }) {
           Chandula Janith (RedEdge967)
         </h1>
 
+      <div className=" pt-16 pr-2 pl-2 flex flex-row justify-around flex-wrap">
+          <div className="flex flex-row items-center m-2">
+            <FaReact size={20} color="#61DBFB" />
+            <h1 className="pl-1 dark:text-white">ReactJS</h1>
+          </div>
+          <div className="flex flex-row items-center m-2">
+            <SiTypescript size={20} color="#007acc" />
+            <h1 className="pl-1 dark:text-white">TypeScript</h1>
+          </div>
+        </div>
+
         <div className="flex flex-row">
           <button className="md:m-2 m-auto mt-8 bg-[#5865F2] shadow-md shadow-[#5865f28a]  pt-2 pb-2 pl-6 pr-4 rounded-xl flex flex-row justify-center items-center hover:bg-[#424bb6] ease-linear duration-300">
             <FaPlay className="animate-ping" size={10} color="#fff" />
             <h1 className="text-white text-md font-semibold pl-2">
-              Start Learning Now
+              Hello There!!!
             </h1>
           </button>
           <button
