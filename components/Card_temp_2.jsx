@@ -1,5 +1,5 @@
 import Image from "next/image";
-import thumb from "../public/thumb.svg";
+import thumb from "../public/Image20211011062828.jpg";
 import { FaReact } from "react-icons/fa";
 import { SiTypescript } from "react-icons/si";
 import { AiOutlineClockCircle } from "react-icons/ai";
